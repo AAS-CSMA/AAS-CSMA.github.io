@@ -2,18 +2,18 @@
 # Adapted from LOFFER template
 #
 
-name: Astronomy Graduate Student Congress
-description: Connecting Graduate Students in Astronomy Across Institutions
+name: AAS-CSMA Astronomy in Color
+description: Astronomy in Color Blog
 
 url: 
 
-baseurl: /astro-grad-congress
+baseurl: /AAS-CSMA
 
 # logo (300px × 300px) add rawgithubuserconent link 
-avatar: https://raw.githubusercontent.com/astro-grad-congress/astro-grad-congress.github.io/main/images/logo.png
+avatar: https://raw.githubusercontent.com/AAS-CSMA/AAS-CSMA.github.io/main/images/CSMA.webp
 
 # favicon (64px × 64px 
-favicon:  https://raw.githubusercontent.com/astro-grad-congress/astro-grad-congress.github.io/main/images/logo.png
+favicon:  https://raw.githubusercontent.com/AAS-CSMA/AAS-CSMA.github.io/main/images/CSMA.webp
 
 navigation:
   - name: Updates
@@ -43,7 +43,7 @@ footer-links:
   email: #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: astro-grad-congress #https://github.com/<>
+  github: AAS-CSMA #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
