@@ -8,5 +8,4 @@ text: |
     Bio
 ---
 
-
 <h1> {{ page.title}} </h1>

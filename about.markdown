@@ -6,8 +6,7 @@ permalink: /about/
 
 <img src="{{ '/images/CSMA.webp' | relative_url }}" alt="logo for the CSMA">
 
-## Mission: 
-To enhance the participation of underrepresented minorities in Astronomy and Astrophysics at all levels of experience.
+# Mission: To enhance the participation of underrepresented minorities in Astronomy and Astrophysics at all levels of experience.
 
 #### Goals:
 To provide an overview of the status of minorities in Astronomy, including identifying areas of concerns and opportunities. To advise the AAS about these and formulate policies for the society to consider. To establish and maintain a statistical base on the participation of minorities in Astronomy over time.
