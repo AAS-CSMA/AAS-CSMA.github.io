@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ '/images/CSMA.webp' | relative_url }}" alt="logo for the CSMA">
+<img src="{{ '/images/SACNAS_Workshop_2017.webp' | relative_url }}" alt="sacnas17">
 
 # Mission: To enhance the participation of underrepresented minorities in Astronomy and Astrophysics at all levels of experience.
 

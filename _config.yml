@@ -2,8 +2,8 @@
 # Adapted from LOFFER template
 #
 
-name: The AAS Committee for the Status of Minority Students (CSMA)
-description:
+name: CSMA
+description: A continuation of the Astronomy in Color Blog
 
 url: 
 
@@ -16,7 +16,7 @@ avatar: https://raw.githubusercontent.com/AAS-CSMA/AAS-CSMA.github.io/main/image
 favicon:  https://raw.githubusercontent.com/AAS-CSMA/AAS-CSMA.github.io/main/images/CSMA.webp
 
 navigation:
-  - name: Updates
+  - name: Blog
     url: /
   - name: About
     url: /about

@@ -8,6 +8,8 @@ comments: false
 toc: false
 pinned: false 
 ---
+<img src="{{ '/images/admissions_survey.webp' | relative_url }}" alt="survey">
+
 
 In the past few years, there has been a surge of graduate applications to astronomy and astrophysics programs. Because the departments that offer these programs are generally rather small, graduate positions are inherently competitive. This has led to applicants experiencing exceptionally low success rates which creates a self-perpetuating problem. High volumes of applications not only place a heavy burden on admissions committees but also exacerbate issues of accessibility and inclusivity for applicants. Because this trend is considered unsustainable by many in the field, the AAS has formed a task force composed of members at all career stages.
 
