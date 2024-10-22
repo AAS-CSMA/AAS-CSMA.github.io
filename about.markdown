@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ '/images/agc_banner.png' | relative_url }}" alt="logo for the astro grad congress">
+<img src="{{ '/images/CSMA.webp' | relative_url }}" alt="logo for the CSMA">
 
-The Astronomy Graduate Student Congress was started by a small group of astronomy grads who attended the recent dotAstro conference in NYC. We noticed that most positive changes to graduate programs tend to come from external pressure rather than internal effort. This motivated us to create some sort of common platform from which we could gain a broader perspective on issues regarding graduate education in astronomy.
+# Mission: To enhance the participation of underrepresented minorities in Astronomy and Astrophysics at all levels of experience.
 
-The goal is to bring together astronomy graduate students from across the United States to promote interdepartmental discourse. We plan on discussing anything and everything relevant to graduate student life with the hope of creating a supportive and collaborative environment that allows departments to exchange best practices and lessons learned. We think this will help expedite positive change and facilitate the implementation of new policies in graduate programs. Your department's participation will not only benefit your graduate students but will also contribute to a shared pool of knowledge. We are also hoping this congress can serve as a channel to communicate with professional societies (like the AAS) to deliver feedback and guidance to departments, thereby lessening the burden on early career scientists.
+#### Goals:
+To provide an overview of the status of minorities in Astronomy, including identifying areas of concerns and opportunities. To advise the AAS about these and formulate policies for the society to consider. To establish and maintain a statistical base on the participation of minorities in Astronomy over time.
+To act as a facilitator in the communication between minorities themselves, and the programs and jobs which might interest them. This includes putting students in contact with more advanced students or professionals, fostering "mentoring," and "networking" in aid of moving people into programs or jobs.
+To act as a central contact point to other societies or institutions with a useful relation to the mission.
 
-
-Cheers,
-Lou Baya Ould Rouis (Boston University), Yasmeen Asali (Yale), Sebastian Monzon (Yale), Lindsay House (UT Austin), and Charlotte Olsen (City Tech)
+#### Methods: 
+The AAS will supply the CSMA with the resources needed to compile and maintain its informational databases. The CSMA will maintain and update a website (as part of the AAS website), which will make available to the community at large all appropriate information. It will be constructed to facilitate communication between those offering assistance, advice, education or employment, and those seeking it. The committee will actively publicize its efforts in appropriate forums to maximize the number of participants in its activities. The CSM will meet regularly, electronically or in person, to monitor its success and create new policies or activities. It will remain aware of other efforts germane to its mission, and make use of them (and avoid duplication) whenever possible.
