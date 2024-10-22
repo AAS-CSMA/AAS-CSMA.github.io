@@ -2,18 +2,18 @@
 # Adapted from LOFFER template
 #
 
-name: Astronomy Graduate Student Congress
-description: Connecting Graduate Students in Astronomy Across Institutions
+name: The AAS Committee for the Status of Minority Students (CSMA)
+description:
 
 url: 
 
 baseurl: /AAS-CSMA
 
 # logo (300px × 300px) add rawgithubuserconent link 
-avatar: https://raw.githubusercontent.com/AAS-CSMA/AAS-CSMA.github.io/main/images/logo.png
+avatar: https://raw.githubusercontent.com/AAS-CSMA/AAS-CSMA.github.io/main/images/CSMA.webp
 
 # favicon (64px × 64px 
-favicon:  https://raw.githubusercontent.com/AAS-CSMA/AAS-CSMA.github.io/main/images/logo.png
+favicon:  https://raw.githubusercontent.com/AAS-CSMA/AAS-CSMA.github.io/main/images/CSMA.webp
 
 navigation:
   - name: Updates
